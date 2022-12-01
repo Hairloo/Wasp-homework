@@ -8,6 +8,7 @@
 ------------------|--------|--------
 Домашка 1         | 🟡    | <a href="https://github.com/Hairloo/Wasp-homework/tree/main/firstHomework">Перейти</a>
 Автопарк          | 🟡    | <a href="https://github.com/Hairloo/Wasp-homework/tree/main/Autopark">Перейти</a>
+Магазин дисков    | 🟡    | <a href="https://github.com/Hairloo/Wasp-homework/tree/main/MusicDiskStore">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
